@@ -41,9 +41,6 @@ VI.	pygame
 
 VII. tkinter 
 
-VIII.	ttk from tkinter 
-
-IX. messagebox from tkinter 
 
 
 

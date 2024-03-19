@@ -52,8 +52,6 @@ VII. tkinter
   
   ```bash
   pip install sounddevice numpy pygame
-  
-
 
 # Sample Run :
 

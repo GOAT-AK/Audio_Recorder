@@ -52,7 +52,8 @@ IX. messagebox from tkinter
 * This python program was run and tested on the VSCode[VSCode](https://code.visualstudio.com/download)
 
 * Ensure the required libraries are installed by running:
- 
+  
+ ![Install The Libraries](https://github.com/GOAT-AK/Audio_Recorder/assets/103078881/34457b86-cfe5-4e0f-91be-a6e1534b6e17)
 
 
 # Sample Run :

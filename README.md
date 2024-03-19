@@ -31,19 +31,19 @@ I.	VSCode(IDE)
 
 II.	Python 3.x
 
-III. sounddevice
+III. sounddevice 
 
-IV. numpy
+IV. numpy 
 
-V.  wave
+V.  wave 
 
-VI.	pygame
+VI.	pygame 
 
-VII. tkinter
+VII. tkinter 
 
-VIII.	ttk from tkinter
+VIII.	ttk from tkinter 
 
-IX. messagebox from tkinter
+IX. messagebox from tkinter 
 
 
 
@@ -58,26 +58,26 @@ IX. messagebox from tkinter
 
 # Sample Run :
 
-* When The user Enters a Correct ID & Password
+* The GUI
   
-1
+![The GUI](https://github.com/GOAT-AK/Audio_Recorder/assets/103078881/1dce1a65-ea79-4732-9d18-c2da8069a538)
 
 <hr>
 
 * When The User Start Recording
 
-2
+![Start Recording](https://github.com/GOAT-AK/Audio_Recorder/assets/103078881/22b37fa9-ecda-47c0-a4b1-1126f0bba13a)
 
 <hr>
 
 * When The User Stops Recording
 
-3
+![Stop Recording](https://github.com/GOAT-AK/Audio_Recorder/assets/103078881/9a5e8a63-3339-4cff-bbd6-8d734f1f1873)
 
 <hr>
 
 
 * When The User Finished Recording
 
-4
+![Finished Recording](https://github.com/GOAT-AK/Audio_Recorder/assets/103078881/ff56722c-435f-4e78-b379-cfc6b06c42e7)
 
